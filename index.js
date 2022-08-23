@@ -11,9 +11,9 @@ const Intern = require('./lib/intern');
 const generateHTML = require('./src/generateHTML');
 
 // // Colorized Fonts and Other Default Language
-// const welcomeMsg = `* * * * WELCOME TO YOUR AUTOMATED TEAM PROFILE GENERATOR. * * * *\n`.underline.green;
-// const error = `\r\n>> ERR: `.red.bold;
-// const noInfoEntered = `No information was entered.`;
+const welcomeMsg = `* * * * WELCOME TO YOUR AUTOMATED TEAM PROFILE GENERATOR. * * * *\n`.underline.green;
+const error = `\r\n>> ERR: `.red.bold;
+const noInfoEntered = `No information was entered.`;
 
 // Array to Hold Team
 const teamArr = [];

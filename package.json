@@ -1,7 +1,28 @@
 {
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhscott/team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexhscott/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/alexhscott/team-profile-generator#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "inquirer": "^9.1.0",
-    "rxjs": "^7.5.6"
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4"
   }
 }
