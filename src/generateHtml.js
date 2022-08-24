@@ -56,7 +56,7 @@ const generate = (teamArr) => {
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
             <link rel="preconnect" href="https://fonts.gstatic.com">
             <link rel="stylesheet" href="https://fonts.googleapis.com/css2?&family=Poppins:wght@200;300;400;500&family=Roboto:wght@300;400;500;700&display=swap">
-            <link rel="stylesheet" href="../styles/style.css">
+            <link rel="stylesheet" href="../assets/style.css">
             <title>My Team</title>
         </head>
         <body>
